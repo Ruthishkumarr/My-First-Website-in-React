@@ -66,7 +66,7 @@ function App() {
               return <div className="col-lg-4 col-sm-6 mb-4" key={i}>
               <div className="card h-100">
                 <a href="#">
-                  <img
+                  <imgupdated
                     className="card-img-top"
                     src="https://via.placeholder.com/700x400"
                     alt=""
